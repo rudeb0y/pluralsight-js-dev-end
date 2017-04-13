@@ -1,1 +1,1 @@
-# pluralsight-js-dev-end
+# pluralsight-js-dev-env
