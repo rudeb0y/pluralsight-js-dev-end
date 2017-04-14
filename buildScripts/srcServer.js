@@ -15,4 +15,4 @@ if (err) {
   } else {
     open('http://localhost:' + port);
   }
-})
+});
